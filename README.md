@@ -58,6 +58,6 @@ Parallax and Perspective Shifts:
     - Homography adjustments partially address this issue.
 - **Computational Cost**: Feature detection and RANSAC are computationally intensive. Optimized implementations are recommended.
 
-## Improvements:
+### Improvements:
 - Implemented Invariant Features Technique for distortion correction and automatic image ordering.
 - Enhanced blending for smoother transitions.
